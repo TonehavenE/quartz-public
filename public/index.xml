@@ -5,6 +5,66 @@
       <link>https://eben.tonehaven.org</link>
       <description>Last 10 notes on Haven</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      
+      <item>
+    <title>Torricelli&#039;s Theorem</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Torricelli's-Theorem</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Torricelli's-Theorem</guid>
+    <description>Topic: Fluid Dynamics Torricelli’s Theorem The velocity of the fluid coming out of the spout is the same as the velocity of a single droplet of fluid that falls from the height of the ...</description>
+    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
+  </item><item>
+    <title>Navier-Stokes Equations</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Navier-Stokes-Equations</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Navier-Stokes-Equations</guid>
+    <description>Topic: Fluid Dynamics Navier-Stokes Equations The Navier-Stokes Equations are a series of Partial Differential Equations that describe the motion of Fluids ...</description>
+    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
+  </item><item>
+    <title>Introduction</title>
+    <link>https://eben.tonehaven.org/</link>
+    <guid>https://eben.tonehaven.org/</guid>
+    <description>Hello, World! Hey there! I am Eben Quenneville, a Physics student at the University of New Hampshire. This is a publicly accessible sub-section of my personal notes network built using Obsidian.</description>
+    <pubDate>Sun, 04 Aug 2024 03:54:38 GMT</pubDate>
+  </item><item>
+    <title>Pascals Principle</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pascals-Principle</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pascals-Principle</guid>
+    <description>Topic: Fluids Pascal’s Principle What is Pascal’s Principle? :?: The principle that the pressure throughout a fluid is equal. Formally, Pascal’s Principle might be defined as: A pressure change at any point in a confined and in-compressible fluid is transmitted throughout the fluid such that the same change occurs everywhere.</description>
+    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+  </item><item>
+    <title>Pressure</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pressure</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pressure</guid>
+    <description>Topic: Fluids Pressure \text{Pressure} = P = \frac{F}{A} Measured in Pascals: 1 Pa = 1 N / m^2. Also measured in kilopascals kPa, atmospheres 1 atm = 101.3 kPa, and pounds per square inch, 1 atm = 14.7 psi.</description>
+    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+  </item><item>
+    <title>Van der Waals Equation of State</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Van-der-Waals-Equation-of-State</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Van-der-Waals-Equation-of-State</guid>
+    <description>Topic: Fluids Van der Waals Equation of State The Ideal Gas Law is just that; ideal. It turns out that gases don’t behave exactly like this, especially as your approach high pressures.</description>
+    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+  </item><item>
+    <title>Fluids</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Fluids</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Fluids</guid>
+    <description>Fluids What is a fluid? :?: Something that flows, including gasses, liquids, and plasmas. What causes Pressure in a fluid? :?: The weight of the fluid and the collisions of the molecules.</description>
+    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+  </item><item>
+    <title>Hydraulics</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydraulics</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydraulics</guid>
+    <description>Topic: Fluids Hydraulics Hydraulics rely on Pascals Principle to give mechanical advantage in some way. For example, you might lift a car using a hydraulic lift that functions by putting some force on one piston with a small area that lifts a much larger piston by a smaller amount.</description>
+    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+  </item><item>
+    <title>Vapor</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Vapor</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Vapor</guid>
+    <description>Topic: Fluids Vapor A vapor is very similar to a gas. However, the difference is that a substance below its Critical Temperature in the gaseous state is called a vapor; above the critical temperature it is called a gas.</description>
+    <pubDate>Wed, 12 Jun 2024 00:40:11 GMT</pubDate>
+  </item><item>
+    <title>Saturated Vapor Pressure</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Saturated-Vapor-Pressure</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Saturated-Vapor-Pressure</guid>
+    <description>Topic: Fluids Saturated Vapor Pressure Air normally contains Vapor, and it mainly comes from Evaporation. In a closed container, when the amount of molecules in the vapor is equal to the number of molecules returning to the liquid, the gas is said to be saturated.</description>
+    <pubDate>Wed, 12 Jun 2024 00:37:37 GMT</pubDate>
+  </item>
     </channel>
   </rss>
