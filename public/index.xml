@@ -18,6 +18,18 @@
     <description>Equation of Continuity Topic: Fluids The equation of continuity for fluids relates the rate of flow at one point to another, stating that they must be equal across the fluid ...</description>
     <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
   </item><item>
+    <title>Bernoulli&#039;s Equation</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Equation</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Equation</guid>
+    <description>Topic: Fluid Dynamics Bernoulli’s Equation P_{1} + \frac{1}{2} \rho v_{1}^{2} + \rho g h_{1} = P_{2} + \frac{1}{2} \rho v_{2}^{2} + \rho g h Where P is Absolute Pressure, \rho is Density, ...</description>
+    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
+  </item><item>
+    <title>Bernoulli&#039;s Principle</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Principle</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Principle</guid>
+    <description>Topic: Fluids Bernoulli’s Principle Fluid velocity and pressure are inverse. Therefore if a liquid is moving faster, it exhibits less pressure on the walls of the pipe.</description>
+    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
+  </item><item>
     <title>Navier-Stokes Equations</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Navier-Stokes-Equations</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Navier-Stokes-Equations</guid>
@@ -29,6 +41,12 @@
     <guid>https://eben.tonehaven.org/</guid>
     <description>Hello, World! Hey there! I am Eben Quenneville, a Physics student at the University of New Hampshire. This is a publicly accessible sub-section of my personal notes network built using Obsidian.</description>
     <pubDate>Sun, 04 Aug 2024 03:54:38 GMT</pubDate>
+  </item><item>
+    <title>Hydrostatic Pressure</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydrostatic-Pressure</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydrostatic-Pressure</guid>
+    <description>Topic: Fluids Hydrostatic Pressure Hydrostatic pressure is the pressure in a fluid at rest. What does hydrostatic mean? :?: Fluid at rest. Hydrostatic Equation P = P_{0} + \rho gh \text{Pressure = External Pressure + density * gravity * height or depth} Note that this is Absolute Pressure, not Gauge Pressure.</description>
+    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
   </item><item>
     <title>Ideal Gas Law</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas-Law</link>
@@ -46,24 +64,6 @@
     <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pascals-Principle</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pascals-Principle</guid>
     <description>Topic: Fluids Pascal’s Principle What is Pascal’s Principle? :?: The principle that the pressure throughout a fluid is equal. Formally, Pascal’s Principle might be defined as: A pressure change at any point in a confined and in-compressible fluid is transmitted throughout the fluid such that the same change occurs everywhere.</description>
-    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
-  </item><item>
-    <title>Pressure</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pressure</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pressure</guid>
-    <description>Topic: Fluids Pressure \text{Pressure} = P = \frac{F}{A} Measured in Pascals: 1 Pa = 1 N / m^2. Also measured in kilopascals kPa, atmospheres 1 atm = 101.3 kPa, and pounds per square inch, 1 atm = 14.7 psi.</description>
-    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
-  </item><item>
-    <title>Van der Waals Equation of State</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Van-der-Waals-Equation-of-State</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Van-der-Waals-Equation-of-State</guid>
-    <description>Topic: Fluids Van der Waals Equation of State The Ideal Gas Law is just that; ideal. It turns out that gases don’t behave exactly like this, especially as your approach high pressures.</description>
-    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
-  </item><item>
-    <title>Fluids</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Fluids</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Fluids</guid>
-    <description>Fluids What is a fluid? :?: Something that flows, including gasses, liquids, and plasmas. What causes Pressure in a fluid? :?: The weight of the fluid and the collisions of the molecules.</description>
     <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
   </item>
     </channel>
