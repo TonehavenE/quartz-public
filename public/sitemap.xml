@@ -1,87 +1,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Absolute-Pressure</loc>
-    <lastmod>2024-06-13T14:13:38.070Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Equation</loc>
-    <lastmod>2024-08-06T17:02:34.074Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Principle</loc>
-    <lastmod>2024-08-06T17:02:34.073Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Buoyancy</loc>
-    <lastmod>2024-06-13T14:13:38.070Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Critical-Temperature</loc>
-    <lastmod>2024-06-13T14:13:38.070Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Equation-of-Continuity</loc>
-    <lastmod>2024-08-06T17:02:34.075Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Fluids</loc>
-    <lastmod>2024-06-13T14:13:38.070Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Gauge-Pressure</loc>
-    <lastmod>2024-06-13T14:13:38.070Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydraulics</loc>
-    <lastmod>2024-06-13T14:13:38.070Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydrostatic-Pressure</loc>
-    <lastmod>2024-06-13T14:13:38.071Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas-Law</loc>
-    <lastmod>2024-06-13T14:13:38.071Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas</loc>
-    <lastmod>2024-06-13T14:13:38.071Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Mean-Free-Path</loc>
-    <lastmod>2024-06-12T00:37:37.336Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Navier-Stokes-Equations</loc>
-    <lastmod>2024-08-06T17:02:34.071Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pascals-Principle</loc>
-    <lastmod>2024-06-13T14:13:38.071Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pressure</loc>
-    <lastmod>2024-06-13T14:13:38.071Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Saturated-Vapor-Pressure</loc>
-    <lastmod>2024-06-12T00:37:37.337Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Torricelli's-Theorem</loc>
-    <lastmod>2024-08-06T17:02:34.077Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Van-der-Waals-Equation-of-State</loc>
-    <lastmod>2024-06-13T14:13:38.071Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Vapor</loc>
-    <lastmod>2024-06-12T00:40:11.543Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Hugo/keyboards/ergotravel</loc>
-    <lastmod>2020-09-01T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Hugo/keyboards/icarus</loc>
-    <lastmod>2022-06-01T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Hugo/keyboards/r_track</loc>
+    <loc>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</loc>
     <lastmod>2021-01-01T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://eben.tonehaven.org/Hugo/keyboards/silvis</loc>
+    <loc>https://eben.tonehaven.org/Blog-Posts/Keyboards/ErgoTravel</loc>
+    <lastmod>2020-09-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</loc>
+    <lastmod>2022-06-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://eben.tonehaven.org/Blog-Posts/Keyboards/Silvis</loc>
     <lastmod>2022-10-01T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://eben.tonehaven.org/Hugo/keyboards/tantalus</loc>
+    <loc>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</loc>
     <lastmod>2021-06-01T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://eben.tonehaven.org/Hugo/posts/biking</loc>
-    <lastmod>2023-01-17T16:05:05.000Z</lastmod>
-  </url><url>
-    <loc>https://eben.tonehaven.org/Hugo/posts/bwsi</loc>
+    <loc>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</loc>
     <lastmod>2023-08-09T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://eben.tonehaven.org/Hugo/posts/obsidian</loc>
+    <loc>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</loc>
+    <lastmod>2023-01-17T16:05:05.000Z</lastmod>
+  </url><url>
+    <loc>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</loc>
     <lastmod>2023-05-12T16:05:05.000Z</lastmod>
+  </url><url>
+    <loc>https://eben.tonehaven.org/Concepts/Concepts</loc>
+    <lastmod>2024-06-13T14:13:38.000Z</lastmod>
+  </url><url>
+    <loc>https://eben.tonehaven.org/Ergonomic-Keyboards</loc>
+    <lastmod>2024-08-06T20:25:40.058Z</lastmod>
+  </url><url>
+    <loc>https://eben.tonehaven.org/Research/Ergo-Mechanical-Keyboards/Ergogen</loc>
+    <lastmod>2024-06-13T14:13:38.160Z</lastmod>
   </url><url>
     <loc>https://eben.tonehaven.org/</loc>
     <lastmod>2024-08-04T03:54:38.945Z</lastmod>

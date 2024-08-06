@@ -6,35 +6,11 @@
       <description>Last 10 notes on Haven</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Torricelli&#039;s Theorem</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Torricelli's-Theorem</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Torricelli's-Theorem</guid>
-    <description>Topic: Fluid Dynamics Torricelli’s Theorem The velocity of the fluid coming out of the spout is the same as the velocity of a single droplet of fluid that falls from the height of the ...</description>
-    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
-  </item><item>
-    <title>Equation of Continuity</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Equation-of-Continuity</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Equation-of-Continuity</guid>
-    <description>Equation of Continuity Topic: Fluids The equation of continuity for fluids relates the rate of flow at one point to another, stating that they must be equal across the fluid ...</description>
-    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
-  </item><item>
-    <title>Bernoulli&#039;s Equation</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Equation</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Equation</guid>
-    <description>Topic: Fluid Dynamics Bernoulli’s Equation P_{1} + \frac{1}{2} \rho v_{1}^{2} + \rho g h_{1} = P_{2} + \frac{1}{2} \rho v_{2}^{2} + \rho g h Where P is Absolute Pressure, \rho is Density, ...</description>
-    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
-  </item><item>
-    <title>Bernoulli&#039;s Principle</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Principle</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Bernoulli's-Principle</guid>
-    <description>Topic: Fluids Bernoulli’s Principle Fluid velocity and pressure are inverse. Therefore if a liquid is moving faster, it exhibits less pressure on the walls of the pipe.</description>
-    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
-  </item><item>
-    <title>Navier-Stokes Equations</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Navier-Stokes-Equations</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Navier-Stokes-Equations</guid>
-    <description>Topic: Fluid Dynamics Navier-Stokes Equations The Navier-Stokes Equations are a series of Partial Differential Equations that describe the motion of Fluids ...</description>
-    <pubDate>Tue, 06 Aug 2024 17:02:34 GMT</pubDate>
+    <title>Ergonomic Keyboards</title>
+    <link>https://eben.tonehaven.org/Ergonomic-Keyboards</link>
+    <guid>https://eben.tonehaven.org/Ergonomic-Keyboards</guid>
+    <description>Ergonomic Keyboards An ergonomic keyboard is a tool for inputting symbols to a computer in a way that doesn’t compromise on the user’s comfort. Typical features that might make a keyboard more ergonomic that the traditional counterpart are a split design, ortholinear or columnar staggered keys, or non-traditional angles.</description>
+    <pubDate>Tue, 06 Aug 2024 20:25:40 GMT</pubDate>
   </item><item>
     <title>Introduction</title>
     <link>https://eben.tonehaven.org/</link>
@@ -42,29 +18,53 @@
     <description>Hello, World! Hey there! I am Eben Quenneville, a Physics student at the University of New Hampshire. This is a publicly accessible sub-section of my personal notes network built using Obsidian.</description>
     <pubDate>Sun, 04 Aug 2024 03:54:38 GMT</pubDate>
   </item><item>
-    <title>Hydrostatic Pressure</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydrostatic-Pressure</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydrostatic-Pressure</guid>
-    <description>Topic: Fluids Hydrostatic Pressure Hydrostatic pressure is the pressure in a fluid at rest. What does hydrostatic mean? :?: Fluid at rest. Hydrostatic Equation P = P_{0} + \rho gh \text{Pressure = External Pressure + density * gravity * height or depth} Note that this is Absolute Pressure, not Gauge Pressure.</description>
+    <title>Ergogen</title>
+    <link>https://eben.tonehaven.org/Research/Ergo-Mechanical-Keyboards/Ergogen</link>
+    <guid>https://eben.tonehaven.org/Research/Ergo-Mechanical-Keyboards/Ergogen</guid>
+    <description>Ergogen is a tool for systematically and parametically creating keyboard designs. I’ve used it in the past, but it has changed a lot so I’m basically relearning the tool from flatfootfox.com/ergogen-part1-units-points/.</description>
     <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
   </item><item>
-    <title>Ideal Gas Law</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas-Law</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas-Law</guid>
-    <description>Topic: Fluids Ideal Gas Law The Ideal Gas law is an idealized relationship between the temperature, pressure, quantity, and volume of a gas: PV = nRT, where n represents the number ...</description>
+    <title>Concepts</title>
+    <link>https://eben.tonehaven.org/Concepts/Concepts</link>
+    <guid>https://eben.tonehaven.org/Concepts/Concepts</guid>
+    <description>Topic: Psychology Concepts Concepts are ideas, rules, or mental groupings of similar objects, events, people, and activities. You have a concept of a ball that includes footballs, rubber balls, soccer balls, and cannon balls, for example.</description>
     <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
   </item><item>
-    <title>Ideal Gas</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas</guid>
-    <description>Ideal Gas Topic: Fluids Ideal Gas An ideal gas is a gas which obeys the Ideal Gas Law. Specifically, it is a gas which we make certain assumptions about so that we can more accurately and reliably model it using kinetic theory.</description>
-    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+    <title>Beaver Works Summer Institute</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</guid>
+    <description>Beaver Works Summer Institute Introduction In the summer of 2023, I had the pleasure of attending the Beaver Works Summer Institute, a program for rising high school seniors run by ...</description>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Pascals Principle</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pascals-Principle</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Pascals-Principle</guid>
-    <description>Topic: Fluids Pascal’s Principle What is Pascal’s Principle? :?: The principle that the pressure throughout a fluid is equal. Formally, Pascal’s Principle might be defined as: A pressure change at any point in a confined and in-compressible fluid is transmitted throughout the fluid such that the same change occurs everywhere.</description>
-    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+    <title>Obsidian Notes</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</guid>
+    <description>Obsidian Notes What is Obsidian? In late 2022, I was lucky enough to stumble onto a wonderful project called Obsidian Notes. The principle is simple: a note-taking software composed of plain markdown files with a focus on interconnection and extensibility.</description>
+    <pubDate>Fri, 12 May 2023 16:05:05 GMT</pubDate>
+  </item><item>
+    <title>Biking</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</guid>
+    <description>Biking Research As winter settled in and I began to spend more time inside, I was looking to get into a new excerise hobby. I spent a while thinking about it, and eventually decided that I wanted to start biking.</description>
+    <pubDate>Tue, 17 Jan 2023 16:05:05 GMT</pubDate>
+  </item><item>
+    <title>Silvis</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Silvis</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Silvis</guid>
+    <description> Introduction After building Tantalus and another Dactyl Manuform 5x6, I still wasn’t fully satisfied with my secondary keyboard. My Dactyl Manuform R-Track is perfect for my primary setup, but I have been moving around more and doing school work on a laptop.</description>
+    <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Icarus</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</guid>
+    <description>Icarus Introduction I had just finished a written math assignment when I thought to myself: why should I have to compute something on my calculator, then enter it into the computer? ...</description>
+    <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Tantalus</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</guid>
+    <description>Introduction This is my 3rd ergo keyboard, and my first completly custom design from scratch. My previous build, the Dactyl Manuform R Track, was almost perfect.</description>
+    <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
