@@ -30,6 +30,12 @@
     <description>Hello, World! Hey there! I am Eben Quenneville, a Physics student at the University of New Hampshire. This is a publicly accessible sub-section of my personal notes network built using Obsidian.</description>
     <pubDate>Sun, 04 Aug 2024 03:54:38 GMT</pubDate>
   </item><item>
+    <title>Ideal Gas Law</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas-Law</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas-Law</guid>
+    <description>Topic: Fluids Ideal Gas Law The Ideal Gas law is an idealized relationship between the temperature, pressure, quantity, and volume of a gas: PV = nRT, where n represents the number ...</description>
+    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+  </item><item>
     <title>Ideal Gas</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Ideal-Gas</guid>
@@ -58,12 +64,6 @@
     <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Fluids</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Fluids</guid>
     <description>Fluids What is a fluid? :?: Something that flows, including gasses, liquids, and plasmas. What causes Pressure in a fluid? :?: The weight of the fluid and the collisions of the molecules.</description>
-    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
-  </item><item>
-    <title>Hydraulics</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydraulics</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Fluid-Dynamics/Hydraulics</guid>
-    <description>Topic: Fluids Hydraulics Hydraulics rely on Pascals Principle to give mechanical advantage in some way. For example, you might lift a car using a hydraulic lift that functions by putting some force on one piston with a small area that lifts a much larger piston by a smaller amount.</description>
     <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
   </item>
     </channel>
