@@ -10,61 +10,61 @@
     <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Soldering</link>
     <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Soldering</guid>
     <description>Soldering Soldering is the process of connecting a component to a PCB by melting solder between the surfaces. Traditionally, soldering is done using a soldering iron - essentially a very hot stick of metal that you gently touch to heat the circuit board, solder, and component together.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:06 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 22:32:09 GMT</pubDate>
   </item><item>
     <title>Ergonomic Keyboards</title>
     <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</link>
     <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</guid>
     <description>Ergonomic Keyboards An ergonomic keyboard is a tool for inputting symbols to a computer in a way that doesn’t compromise on the user’s comfort. Typical features that might make a keyboard more ergonomic that the traditional counterpart are a split design, ortholinear or columnar staggered keys, or non-traditional angles.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:06 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 22:32:09 GMT</pubDate>
   </item><item>
-    <title>Neutrons</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Neutrons</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Neutrons</guid>
-    <description>Neutrons Topic: Atoms Neutrons are neutrally charged subatomic particles found inside the Nucleus of an atom. References.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:05 GMT</pubDate>
+    <title>Obsidian Notes</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</guid>
+    <description>Obsidian Notes What is Obsidian? In late 2022, I was lucky enough to stumble onto a wonderful project called Obsidian Notes. The principle is simple: a note-taking software composed of plain markdown files with a focus on interconnection and extensibility.</description>
+    <pubDate>Fri, 09 Aug 2024 22:32:05 GMT</pubDate>
   </item><item>
-    <title>Atoms</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Atoms</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Atoms</guid>
-    <description>Atoms Atoms are the fundamental particle of matter, once believed to be the smallest unit of matter. Each atom consists of a Nucleus holding Protons and Neutrons, and a cloud of Electrons surrounding it.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:05 GMT</pubDate>
+    <title>Tantalus</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</guid>
+    <description>Tantalus Introduction This is my 3rd ergonomic keyboard, and my first completely custom design. My previous build, the Dactyl Manuform R-Track, was almost perfect.</description>
+    <pubDate>Fri, 09 Aug 2024 22:32:05 GMT</pubDate>
   </item><item>
-    <title>Antiparticles</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Antiparticles</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Antiparticles</guid>
-    <description>For every type of particle there is an antiparticle, also known as antimatter. The theory of antiparticles was first proposed by Paul Dirac in 1928. It has been confirmed by discovery when Don Anderson found the positively charged electron, positron, in 1932.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:05 GMT</pubDate>
+    <title>Icarus</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</guid>
+    <description>Icarus Introduction I had just finished a written math assignment when I thought to myself: why should I have to compute something on my calculator, then enter it into the computer? ...</description>
+    <pubDate>Fri, 09 Aug 2024 22:32:05 GMT</pubDate>
   </item><item>
-    <title>Alpha Radiation</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Alpha-Radiation</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Alpha-Radiation</guid>
-    <description>Alpha Radiation Alpha radiation is made up of a stream of alpha particles: two Protons and two Neutrons. This is a helium nuclei with no electrons. They have a positive charge.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:05 GMT</pubDate>
+    <title>Dactyl Manuform R-Track</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</guid>
+    <description>Dactyl Manuform R-Track Preface: This design is entirely made by QQurn, and details can be found at gitlab.com/keyboards1/dm_r_track. After building my first ergonomic keyboard a few months prior, I wanted to do more electronics.</description>
+    <pubDate>Fri, 09 Aug 2024 22:32:05 GMT</pubDate>
   </item><item>
-    <title>Absolute Zero</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Absolute-Zero</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Absolute-Zero</guid>
-    <description>Absolute Zero There is no upper limit to temperature, in principle. Eventually things will become plasma, but they can keep heating up. On the other side of the scale, there is a lower limit to temperature.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:05 GMT</pubDate>
+    <title>KiCad</title>
+    <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/KiCad</link>
+    <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/KiCad</guid>
+    <description>KiCad KiCad is an open-source suite for designing Printed Circuit Boards.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
   </item><item>
-    <title>Genes</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Biology/Genes</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Biology/Genes</guid>
-    <description>Genes Topic: Genetics Genes are small segments of the giant DNA molecules. They can be thought of as forming the words to the chapters that are chromosomes, themselves part of the book that details your genetic master code.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:05 GMT</pubDate>
+    <title>Printed Circuit Boards</title>
+    <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Printed-Circuit-Boards</link>
+    <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Printed-Circuit-Boards</guid>
+    <description>Printed Circuit Boards A printed circuit board, or PCB, is a object that allows us to physically wire together, or route, the components of a Circuit.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
   </item><item>
-    <title>Chromosome</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Biology/Chromosome</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Biology/Chromosome</guid>
-    <description>Chromosome Topic: Genetics A chromosome is a coiled chain of the molecule DNA that indicate your Genes. A human has 46 chromosomes. The nucleus is bigger than the chromosome is bigger than the ==gene==.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:05 GMT</pubDate>
+    <title>Algebra</title>
+    <link>https://eben.tonehaven.org/Concepts/Math/Algebra/Algebra</link>
+    <guid>https://eben.tonehaven.org/Concepts/Math/Algebra/Algebra</guid>
+    <description>Algebra Algebra is the branch of mathematics that studies structure and manipulation. We are introduced to elementary algebra in middle or high school, but the field is much deeper and more beautiful.</description>
+    <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Math Notation</title>
-    <link>https://eben.tonehaven.org/Concepts/Math/Math-Notation</link>
-    <guid>https://eben.tonehaven.org/Concepts/Math/Math-Notation</guid>
-    <description>\mathbb{R}^{n} means the n-dimensional real coordinate space. It represents all possible real valued n-tuples. \in means that something is an element or member of something else, e.g: \vec{x}=\begin{bmatrix} 0 \\ 0 \\ 0 \end{bmatrix} \text{, }\vec{x}\in \mathbb{R}^3.</description>
-    <pubDate>Fri, 09 Aug 2024 19:41:04 GMT</pubDate>
+    <title>Proper Subsets</title>
+    <link>https://eben.tonehaven.org/Concepts/Math/Algebra/Proper-Subsets</link>
+    <guid>https://eben.tonehaven.org/Concepts/Math/Algebra/Proper-Subsets</guid>
+    <description>Proper Subsets Topic: Algebra A Set A is a proper subset of a set B if A \subseteq B but A \neq B. In this case, we can omit the line: A \subset B. This is alternately written as A \subsetneq B.</description>
+    <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
