@@ -6,65 +6,65 @@
       <description>Last 10 notes on Haven</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>KiCad</title>
-    <link>https://eben.tonehaven.org/KiCad</link>
-    <guid>https://eben.tonehaven.org/KiCad</guid>
-    <description>KiCad KiCad is an open-source suite for designing Printed Circuit Boards.</description>
-    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+    <title>Perfectly Inelastic Collision</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Perfectly-Inelastic-Collision</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Perfectly-Inelastic-Collision</guid>
+    <description>Topic: Linear Momentum Perfectly Inelastic Collision A collision in which the objects stick together. There is only one final velocity. In order to solve these problems, you use the Law of Conservation of Linear Momentum.</description>
+    <pubDate>Fri, 09 Aug 2024 05:04:59 GMT</pubDate>
   </item><item>
-    <title>Soldering</title>
-    <link>https://eben.tonehaven.org/Soldering</link>
-    <guid>https://eben.tonehaven.org/Soldering</guid>
-    <description>Soldering Soldering is the process of connecting a component to a PCB by melting solder between the surfaces. Traditionally, soldering is done using a soldering iron - essentially a very hot stick of metal that you gently touch to heat the circuit board, solder, and component together.</description>
-    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+    <title>Linear Momentum</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Linear-Momentum</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Linear-Momentum</guid>
+    <description>Linear Momentum \vec{P} = m\vec{v} Note that momentum has a direction, unlike Kinetic Energy. The rate of change of momentum is equal to the net force: \sum\limits \vec{F} = \frac{d\vec{P}}{dt} This feels quite natural as if there is no net force there will be no change in momentum.</description>
+    <pubDate>Fri, 09 Aug 2024 05:04:55 GMT</pubDate>
   </item><item>
-    <title>Printed Circuit Boards</title>
-    <link>https://eben.tonehaven.org/Printed-Circuit-Boards</link>
-    <guid>https://eben.tonehaven.org/Printed-Circuit-Boards</guid>
-    <description>Printed Circuit Boards A printed circuit board, or PCB, is a object that allows us to physically wire together, or route, the components of a Circuit.</description>
-    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+    <title>Inelastic Collisions</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Inelastic-Collisions</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Inelastic-Collisions</guid>
+    <description>Topic: Linear Momentum Inelastic Collisions A collision in which the total Kinetic Energy does not remain constant. Note the special case of Perfectly Inelastic Collision, where the objects stick together.</description>
+    <pubDate>Fri, 09 Aug 2024 05:03:31 GMT</pubDate>
   </item><item>
-    <title>Electrical Conductors</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Electricity-and-Magnetism/Electrical-Conductors</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Electricity-and-Magnetism/Electrical-Conductors</guid>
-    <description>Topic: Electromagnetism Electrical Conductors Materials have an associated property called their electrical conductivity. It refers to how easily electricity flows through them.</description>
-    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+    <title>Velocity</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Velocity</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Velocity</guid>
+    <description>Velocity Velocity is a vector that denotes how fast and in what direction something is moving. Mathematically, it is written as \vec{v} = \vec{x}/t where \vec{x} represents the displacement.</description>
+    <pubDate>Fri, 09 Aug 2024 05:02:45 GMT</pubDate>
   </item><item>
-    <title>Quantum Mechanics</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Quantum-Mechanics</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Quantum-Mechanics</guid>
-    <description>Quantum Mechanics Quantum Mechanics The study of the behavior of nature at a scale below the atom. References Modern Physics: Chapter 4.</description>
-    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+    <title>Rolling Motion</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Rolling-Motion</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Rolling-Motion</guid>
+    <description>Topic: Angular Motion Rolling Motion Rolling motion occurs when there is translational and angular motion. For it to occur without slipping, v_{cm} = R \omega Where v_{cm} is the velocity of the center of mass, R is the radius of the rolling object, and \omega is the Angular Velocity.</description>
+    <pubDate>Fri, 09 Aug 2024 05:01:50 GMT</pubDate>
   </item><item>
-    <title>Electrons</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Electrons</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Electrons</guid>
-    <description>Electrons Electrons are negatively charged subatomic particles that orbit the nuclei of Atoms. A single electron has one negative Elementary Charge, denoted -e.</description>
-    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+    <title>Newtons Law of Gravity</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Newtons-Law-of-Gravity</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Newtons-Law-of-Gravity</guid>
+    <description>Newton’s Law of Gravity Every mass in the universe attracts every other mass in the universe with a force that is directly proportional to the product of the two masses involved and ...</description>
+    <pubDate>Fri, 09 Aug 2024 05:01:17 GMT</pubDate>
   </item><item>
-    <title>Ergonomic Keyboards</title>
-    <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</link>
-    <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</guid>
-    <description>Ergonomic Keyboards An ergonomic keyboard is a tool for inputting symbols to a computer in a way that doesn’t compromise on the user’s comfort. Typical features that might make a keyboard more ergonomic that the traditional counterpart are a split design, ortholinear or columnar staggered keys, or non-traditional angles.</description>
-    <pubDate>Tue, 06 Aug 2024 20:25:40 GMT</pubDate>
+    <title>Mass</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Mass</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Mass</guid>
+    <description>Topic: Mass Mass is a measure of the amount of matter in an object. It is distinct from Weight. The SI unit for mass is the kilogram. References.</description>
+    <pubDate>Fri, 09 Aug 2024 05:01:05 GMT</pubDate>
   </item><item>
-    <title>Introduction</title>
-    <link>https://eben.tonehaven.org/</link>
-    <guid>https://eben.tonehaven.org/</guid>
-    <description>Hello, World! Hey there! I am Eben Quenneville, a Physics student at the University of New Hampshire. This is a publicly accessible sub-section of my personal notes network built using Obsidian.</description>
-    <pubDate>Sun, 04 Aug 2024 03:54:38 GMT</pubDate>
+    <title>Kinematic Equations</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Kinematic-Equations</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Kinematic-Equations</guid>
+    <description>Topic: Kinematics Kinematic Equations Constant Acceleration x = x_{0}+v_{0}t+ \frac{1}{2}at^{2} v=v_{0}+at v_{\text{avg}}=\frac{v+v_{0}}{2} v^{2}=v_{0}^{2}+ 2a(x -x_{0}) ...</description>
+    <pubDate>Fri, 09 Aug 2024 05:01:03 GMT</pubDate>
   </item><item>
-    <title>Concepts</title>
-    <link>https://eben.tonehaven.org/Concepts/Concepts</link>
-    <guid>https://eben.tonehaven.org/Concepts/Concepts</guid>
-    <description>Topic: Psychology Concepts Concepts are ideas, rules, or mental groupings of similar objects, events, people, and activities. You have a concept of a ball that includes footballs, rubber balls, soccer balls, and cannon balls, for example.</description>
-    <pubDate>Thu, 13 Jun 2024 14:13:38 GMT</pubDate>
+    <title>Keplers Laws</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Keplers-Laws</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Keplers-Laws</guid>
+    <description>Keplers Laws Kepler was a famous 16-17th century mathematician and astronomer, most notable for his discovery of 3 laws which govern the motion of planets ...</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:37 GMT</pubDate>
   </item><item>
-    <title>Beaver Works Summer Institute</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</guid>
-    <description>Beaver Works Summer Institute Introduction In the summer of 2023, I had the pleasure of attending the Beaver Works Summer Institute, a program for rising high school seniors run by ...</description>
-    <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
+    <title>Internal and External Forces</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Internal-and-External-Forces</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Internal-and-External-Forces</guid>
+    <description>Topic: Linear Momentum Internal and External Forces When one object in a Physics System puts force on another object in a system, it is considered an internal force ...</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:28 GMT</pubDate>
   </item>
     </channel>
   </rss>
