@@ -6,6 +6,42 @@
       <description>Last 10 notes on Haven</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>KiCad</title>
+    <link>https://eben.tonehaven.org/KiCad</link>
+    <guid>https://eben.tonehaven.org/KiCad</guid>
+    <description>KiCad KiCad is an open-source suite for designing Printed Circuit Boards.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+  </item><item>
+    <title>Soldering</title>
+    <link>https://eben.tonehaven.org/Soldering</link>
+    <guid>https://eben.tonehaven.org/Soldering</guid>
+    <description>Soldering Soldering is the process of connecting a component to a PCB by melting solder between the surfaces. Traditionally, soldering is done using a soldering iron - essentially a very hot stick of metal that you gently touch to heat the circuit board, solder, and component together.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+  </item><item>
+    <title>Printed Circuit Boards</title>
+    <link>https://eben.tonehaven.org/Printed-Circuit-Boards</link>
+    <guid>https://eben.tonehaven.org/Printed-Circuit-Boards</guid>
+    <description>Printed Circuit Boards A printed circuit board, or PCB, is a object that allows us to physically wire together, or route, the components of a Circuit.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+  </item><item>
+    <title>Electrical Conductors</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Electricity-and-Magnetism/Electrical-Conductors</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Electricity-and-Magnetism/Electrical-Conductors</guid>
+    <description>Topic: Electromagnetism Electrical Conductors Materials have an associated property called their electrical conductivity. It refers to how easily electricity flows through them.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+  </item><item>
+    <title>Quantum Mechanics</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Quantum-Mechanics</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Quantum-Mechanics</guid>
+    <description>Quantum Mechanics Quantum Mechanics The study of the behavior of nature at a scale below the atom. References Modern Physics: Chapter 4.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+  </item><item>
+    <title>Electrons</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Electrons</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Electrons</guid>
+    <description>Electrons Electrons are negatively charged subatomic particles that orbit the nuclei of Atoms. A single electron has one negative Elementary Charge, denoted -e.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+  </item><item>
     <title>Ergonomic Keyboards</title>
     <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</link>
     <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</guid>
@@ -29,42 +65,6 @@
     <guid>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</guid>
     <description>Beaver Works Summer Institute Introduction In the summer of 2023, I had the pleasure of attending the Beaver Works Summer Institute, a program for rising high school seniors run by ...</description>
     <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Obsidian Notes</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</guid>
-    <description>Obsidian Notes What is Obsidian? In late 2022, I was lucky enough to stumble onto a wonderful project called Obsidian Notes. The principle is simple: a note-taking software composed of plain markdown files with a focus on interconnection and extensibility.</description>
-    <pubDate>Fri, 12 May 2023 16:05:05 GMT</pubDate>
-  </item><item>
-    <title>Biking</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</guid>
-    <description>Biking Research As winter settled in and I began to spend more time inside, I was looking to get into a new excerise hobby. I spent a while thinking about it, and eventually decided that I wanted to start biking.</description>
-    <pubDate>Tue, 17 Jan 2023 16:05:05 GMT</pubDate>
-  </item><item>
-    <title>Silvis</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Silvis</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Silvis</guid>
-    <description> Introduction After building Tantalus and another Dactyl Manuform 5x6, I still wasn’t fully satisfied with my secondary keyboard. My Dactyl Manuform R-Track is perfect for my primary setup, but I have been moving around more and doing school work on a laptop.</description>
-    <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Icarus</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</guid>
-    <description>Icarus Introduction I had just finished a written math assignment when I thought to myself: why should I have to compute something on my calculator, then enter it into the computer? ...</description>
-    <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Tantalus</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</guid>
-    <description>Introduction This is my 3rd ergo keyboard, and my first completly custom design from scratch. My previous build, the Dactyl Manuform R Track, was almost perfect.</description>
-    <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Dactyl Manuform R-Track</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</guid>
-    <description>Dactyl Manuform R-Track Preface: This design is entirely made by QQurn, and details can be found at gitlab.com/keyboards1/dm_r_track. After building my first ergonomic keyboard a few months prior, I wanted to do more electronics.</description>
-    <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
