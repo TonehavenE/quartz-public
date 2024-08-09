@@ -6,65 +6,65 @@
       <description>Last 10 notes on Haven</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Rolling Motion</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Rolling-Motion</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Rolling-Motion</guid>
-    <description>Topic: Angular Motion Rolling Motion Rolling motion occurs when there is translational and angular motion. For it to occur without slipping, v_{cm} = R \omega Where v_{cm} is the velocity of the center of mass, R is the radius of the rolling object, and \omega is the Angular Velocity.</description>
-    <pubDate>Fri, 09 Aug 2024 15:42:59 GMT</pubDate>
+    <title>Introduction</title>
+    <link>https://eben.tonehaven.org/</link>
+    <guid>https://eben.tonehaven.org/</guid>
+    <description>Hello, World! Hey there! I am Eben Quenneville, a Physics student at the University of New Hampshire. This is a publicly accessible sub-section of my personal notes network built using Obsidian.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:58 GMT</pubDate>
   </item><item>
-    <title>Law of Conservation of Linear Momentum</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Law-of-Conservation-of-Linear-Momentum</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Law-of-Conservation-of-Linear-Momentum</guid>
-    <description>Law of Conservation of Linear Momentum Topic: Linear Momentum Conservation of Linear Momentum If the net external force acting on a system is zero, then the total linear momentum ...</description>
-    <pubDate>Fri, 09 Aug 2024 05:08:47 GMT</pubDate>
+    <title>Soldering</title>
+    <link>https://eben.tonehaven.org/Soldering</link>
+    <guid>https://eben.tonehaven.org/Soldering</guid>
+    <description>Soldering Soldering is the process of connecting a component to a PCB by melting solder between the surfaces. Traditionally, soldering is done using a soldering iron - essentially a very hot stick of metal that you gently touch to heat the circuit board, solder, and component together.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:58 GMT</pubDate>
   </item><item>
-    <title>Wave Intensity</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Wave-Intensity</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Wave-Intensity</guid>
-    <description>Topic: Waves Wave Intensity The intensity of a wave is defined as the average Power transported across a unit area perpendicular to the direction of Energy flow: I = \frac{\overline{P}}{\overline{S}} ...</description>
-    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+    <title>Ergonomic Keyboards</title>
+    <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</link>
+    <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</guid>
+    <description>Ergonomic Keyboards An ergonomic keyboard is a tool for inputting symbols to a computer in a way that doesn’t compromise on the user’s comfort. Typical features that might make a keyboard more ergonomic that the traditional counterpart are a split design, ortholinear or columnar staggered keys, or non-traditional angles.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:56 GMT</pubDate>
   </item><item>
-    <title>Waves</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Waves</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Waves</guid>
-    <description>Waves Waves are disturbances that move, carrying energy but not matter. They come in many, many forms, including light waves, ocean waves, Sound Waves, and Electromagnetic Radiation.</description>
-    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+    <title>Quantum Mechanics</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Quantum-Mechanics</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Quantum-Mechanics</guid>
+    <description>Quantum Mechanics Quantum Mechanics The study of the behavior of nature at a scale below the atom. References Modern Physics: Chapter 4.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
   </item><item>
-    <title>Transverse Waves</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Transverse-Waves</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Transverse-Waves</guid>
-    <description>Transverse Waves particles move perpendicular to the wave’s direction .</description>
-    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+    <title>Planck Constant</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Planck-Constant</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Planck-Constant</guid>
+    <description>Planck’s Constant Planck’s constant, denoted by h, is a fundamental physical constant. A photon has energy equal to its Frequency multiplied by h. In SI Units, it has the exact value h = 6.62607015 \times 10^{-34} \text{ J}\cdot \text{Hz}^{-1}.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
   </item><item>
-    <title>Simple Pendulum</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Simple-Pendulum</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Simple-Pendulum</guid>
-    <description>Topic: SHM Simple Pendulum A simple pendulum is a system consisting of a rod of length \ell, at the end of which all mass is concentrated. An example is a very thin string, such that its mass is negligible, with a very dense metal ball at the end.</description>
-    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+    <title>Photons</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Photons</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Photons</guid>
+    <description>Photons Photons are a fundamental particle, like Electrons. They are bundles, or quanta, of light. In certain experiments, it is observed that light behaves exactly like a wave.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
   </item><item>
-    <title>Simple Harmonic Motion</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Simple-Harmonic-Motion</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Simple-Harmonic-Motion</guid>
-    <description>Simple Harmonic Motion Simple harmonic motion relies on two key facts: Must have some equilibrium position If disturbed, experiences a linear restoring force which acts to return ...</description>
-    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+    <title>Snells Law</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Optics/Snells-Law</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Optics/Snells-Law</guid>
+    <description>Snell’s Law Snell’s Law allows use to predict the path of light as it travels from one medium to another. Many scientists tried to find a mathematical relationship for this, but the discovery came at the hand of Willebrord Snell, a Duth mathematician.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
   </item><item>
-    <title>Resonance</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Resonance</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Resonance</guid>
-    <description>Topic: SHM Resonance An object has a natural Frequency, at which it undergoes Simple Harmonic Motion. For a Simple Pendulum, this is \omega = \sqrt{\frac{g}{\ell}}.</description>
-    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+    <title>Index of Refraction</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Optics/Index-of-Refraction</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Optics/Index-of-Refraction</guid>
+    <description>Index of Refraction A medium is a material through which light or some other wave passes. Different transparent mediums have different optical densities, based on the speed of light in the material.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
   </item><item>
-    <title>Physical Pendulum</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Physical-Pendulum</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Physical-Pendulum</guid>
-    <description>Topic: Simple Harmonic Motion Physical Pendulum A physical pendulum is a pendulum where the mass is distributed, not concentrated at the end as with a ball on string (Simple Pendulum) ...</description>
-    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+    <title>Weight</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Weight</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Weight</guid>
+    <description>Topic: Weight The weight of an object is defined in two ways: The mass of the object times the force of gravity: W = mg The value measured on a scale The issue with the second definition ...</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
   </item><item>
-    <title>Mass On A Spring</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Mass-On-A-Spring</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Mass-On-A-Spring</guid>
-    <description>Topic: SHM Mass On A Spring A mass on a spring is one of the most quintessential examples of Simple Harmonic Motion, and involves a system with a Mass suspended on the very end of a spring ...</description>
-    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+    <title>Velocity</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Velocity</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Velocity</guid>
+    <description>Velocity Velocity is a vector that denotes how fast and in what direction something is moving. Mathematically, it is written as \vec{v} = \vec{x}/t where \vec{x} represents the displacement.</description>
+    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
   </item>
     </channel>
   </rss>
