@@ -6,65 +6,65 @@
       <description>Last 10 notes on Haven</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Perfectly Inelastic Collision</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Perfectly-Inelastic-Collision</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Perfectly-Inelastic-Collision</guid>
-    <description>Topic: Linear Momentum Perfectly Inelastic Collision A collision in which the objects stick together. There is only one final velocity. In order to solve these problems, you use the Law of Conservation of Linear Momentum.</description>
-    <pubDate>Fri, 09 Aug 2024 05:04:59 GMT</pubDate>
-  </item><item>
-    <title>Linear Momentum</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Linear-Momentum</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Linear-Momentum</guid>
-    <description>Linear Momentum \vec{P} = m\vec{v} Note that momentum has a direction, unlike Kinetic Energy. The rate of change of momentum is equal to the net force: \sum\limits \vec{F} = \frac{d\vec{P}}{dt} This feels quite natural as if there is no net force there will be no change in momentum.</description>
-    <pubDate>Fri, 09 Aug 2024 05:04:55 GMT</pubDate>
-  </item><item>
-    <title>Inelastic Collisions</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Inelastic-Collisions</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Inelastic-Collisions</guid>
-    <description>Topic: Linear Momentum Inelastic Collisions A collision in which the total Kinetic Energy does not remain constant. Note the special case of Perfectly Inelastic Collision, where the objects stick together.</description>
-    <pubDate>Fri, 09 Aug 2024 05:03:31 GMT</pubDate>
-  </item><item>
-    <title>Velocity</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Velocity</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Velocity</guid>
-    <description>Velocity Velocity is a vector that denotes how fast and in what direction something is moving. Mathematically, it is written as \vec{v} = \vec{x}/t where \vec{x} represents the displacement.</description>
-    <pubDate>Fri, 09 Aug 2024 05:02:45 GMT</pubDate>
-  </item><item>
     <title>Rolling Motion</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Rolling-Motion</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Rolling-Motion</guid>
     <description>Topic: Angular Motion Rolling Motion Rolling motion occurs when there is translational and angular motion. For it to occur without slipping, v_{cm} = R \omega Where v_{cm} is the velocity of the center of mass, R is the radius of the rolling object, and \omega is the Angular Velocity.</description>
-    <pubDate>Fri, 09 Aug 2024 05:01:50 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 15:42:59 GMT</pubDate>
   </item><item>
-    <title>Newtons Law of Gravity</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Newtons-Law-of-Gravity</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Newtons-Law-of-Gravity</guid>
-    <description>Newton’s Law of Gravity Every mass in the universe attracts every other mass in the universe with a force that is directly proportional to the product of the two masses involved and ...</description>
-    <pubDate>Fri, 09 Aug 2024 05:01:17 GMT</pubDate>
+    <title>Law of Conservation of Linear Momentum</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Law-of-Conservation-of-Linear-Momentum</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Momentum/Law-of-Conservation-of-Linear-Momentum</guid>
+    <description>Law of Conservation of Linear Momentum Topic: Linear Momentum Conservation of Linear Momentum If the net external force acting on a system is zero, then the total linear momentum ...</description>
+    <pubDate>Fri, 09 Aug 2024 05:08:47 GMT</pubDate>
   </item><item>
-    <title>Mass</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Mass</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Mass</guid>
-    <description>Topic: Mass Mass is a measure of the amount of matter in an object. It is distinct from Weight. The SI unit for mass is the kilogram. References.</description>
-    <pubDate>Fri, 09 Aug 2024 05:01:05 GMT</pubDate>
+    <title>Wave Intensity</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Wave-Intensity</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Wave-Intensity</guid>
+    <description>Topic: Waves Wave Intensity The intensity of a wave is defined as the average Power transported across a unit area perpendicular to the direction of Energy flow: I = \frac{\overline{P}}{\overline{S}} ...</description>
+    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
   </item><item>
-    <title>Kinematic Equations</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Kinematic-Equations</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Kinematic-Equations</guid>
-    <description>Topic: Kinematics Kinematic Equations Constant Acceleration x = x_{0}+v_{0}t+ \frac{1}{2}at^{2} v=v_{0}+at v_{\text{avg}}=\frac{v+v_{0}}{2} v^{2}=v_{0}^{2}+ 2a(x -x_{0}) ...</description>
-    <pubDate>Fri, 09 Aug 2024 05:01:03 GMT</pubDate>
+    <title>Waves</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Waves</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Waves</guid>
+    <description>Waves Waves are disturbances that move, carrying energy but not matter. They come in many, many forms, including light waves, ocean waves, Sound Waves, and Electromagnetic Radiation.</description>
+    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
   </item><item>
-    <title>Keplers Laws</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Keplers-Laws</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Keplers-Laws</guid>
-    <description>Keplers Laws Kepler was a famous 16-17th century mathematician and astronomer, most notable for his discovery of 3 laws which govern the motion of planets ...</description>
-    <pubDate>Fri, 09 Aug 2024 04:59:37 GMT</pubDate>
+    <title>Transverse Waves</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Transverse-Waves</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/Transverse-Waves</guid>
+    <description>Transverse Waves particles move perpendicular to the wave’s direction .</description>
+    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
   </item><item>
-    <title>Internal and External Forces</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Internal-and-External-Forces</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Internal-and-External-Forces</guid>
-    <description>Topic: Linear Momentum Internal and External Forces When one object in a Physics System puts force on another object in a system, it is considered an internal force ...</description>
-    <pubDate>Fri, 09 Aug 2024 04:59:28 GMT</pubDate>
+    <title>Simple Pendulum</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Simple-Pendulum</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Simple-Pendulum</guid>
+    <description>Topic: SHM Simple Pendulum A simple pendulum is a system consisting of a rod of length \ell, at the end of which all mass is concentrated. An example is a very thin string, such that its mass is negligible, with a very dense metal ball at the end.</description>
+    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+  </item><item>
+    <title>Simple Harmonic Motion</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Simple-Harmonic-Motion</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Simple-Harmonic-Motion</guid>
+    <description>Simple Harmonic Motion Simple harmonic motion relies on two key facts: Must have some equilibrium position If disturbed, experiences a linear restoring force which acts to return ...</description>
+    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+  </item><item>
+    <title>Resonance</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Resonance</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Resonance</guid>
+    <description>Topic: SHM Resonance An object has a natural Frequency, at which it undergoes Simple Harmonic Motion. For a Simple Pendulum, this is \omega = \sqrt{\frac{g}{\ell}}.</description>
+    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+  </item><item>
+    <title>Physical Pendulum</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Physical-Pendulum</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Physical-Pendulum</guid>
+    <description>Topic: Simple Harmonic Motion Physical Pendulum A physical pendulum is a pendulum where the mass is distributed, not concentrated at the end as with a ball on string (Simple Pendulum) ...</description>
+    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
+  </item><item>
+    <title>Mass On A Spring</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Mass-On-A-Spring</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Waves/SHM/Mass-On-A-Spring</guid>
+    <description>Topic: SHM Mass On A Spring A mass on a spring is one of the most quintessential examples of Simple Harmonic Motion, and involves a system with a Mass suspended on the very end of a spring ...</description>
+    <pubDate>Fri, 09 Aug 2024 05:06:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
