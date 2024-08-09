@@ -6,65 +6,65 @@
       <description>Last 10 notes on Haven</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Introduction</title>
-    <link>https://eben.tonehaven.org/</link>
-    <guid>https://eben.tonehaven.org/</guid>
-    <description>Hello, World! Hey there! I am Eben Quenneville, a Physics student at the University of New Hampshire. This is a publicly accessible sub-section of my personal notes network built using Obsidian.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:58 GMT</pubDate>
-  </item><item>
     <title>Soldering</title>
     <link>https://eben.tonehaven.org/Soldering</link>
     <guid>https://eben.tonehaven.org/Soldering</guid>
     <description>Soldering Soldering is the process of connecting a component to a PCB by melting solder between the surfaces. Traditionally, soldering is done using a soldering iron - essentially a very hot stick of metal that you gently touch to heat the circuit board, solder, and component together.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:58 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 17:44:35 GMT</pubDate>
   </item><item>
     <title>Ergonomic Keyboards</title>
     <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</link>
     <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</guid>
     <description>Ergonomic Keyboards An ergonomic keyboard is a tool for inputting symbols to a computer in a way that doesn’t compromise on the user’s comfort. Typical features that might make a keyboard more ergonomic that the traditional counterpart are a split design, ortholinear or columnar staggered keys, or non-traditional angles.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:56 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 17:44:32 GMT</pubDate>
   </item><item>
-    <title>Quantum Mechanics</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Quantum-Mechanics</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Quantum-Mechanics</guid>
-    <description>Quantum Mechanics Quantum Mechanics The study of the behavior of nature at a scale below the atom. References Modern Physics: Chapter 4.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
+    <title>Concepts</title>
+    <link>https://eben.tonehaven.org/Concepts/Concepts</link>
+    <guid>https://eben.tonehaven.org/Concepts/Concepts</guid>
+    <description>Topic: Psychology Concepts Concepts are ideas, rules, or mental groupings of similar objects, events, people, and activities. You have a concept of a ball that includes footballs, rubber balls, soccer balls, and cannon balls, for example.</description>
+    <pubDate>Fri, 09 Aug 2024 17:44:26 GMT</pubDate>
   </item><item>
-    <title>Planck Constant</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Planck-Constant</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Planck-Constant</guid>
-    <description>Planck’s Constant Planck’s constant, denoted by h, is a fundamental physical constant. A photon has energy equal to its Frequency multiplied by h. In SI Units, it has the exact value h = 6.62607015 \times 10^{-34} \text{ J}\cdot \text{Hz}^{-1}.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
+    <title>Obsidian Notes</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</guid>
+    <description>Obsidian Notes What is Obsidian? In late 2022, I was lucky enough to stumble onto a wonderful project called Obsidian Notes. The principle is simple: a note-taking software composed of plain markdown files with a focus on interconnection and extensibility.</description>
+    <pubDate>Fri, 09 Aug 2024 17:44:25 GMT</pubDate>
   </item><item>
-    <title>Photons</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Photons</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Quantum-Mechanics/Photons</guid>
-    <description>Photons Photons are a fundamental particle, like Electrons. They are bundles, or quanta, of light. In certain experiments, it is observed that light behaves exactly like a wave.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
+    <title>Tantalus</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</guid>
+    <description>Tantalus Introduction This is my 3rd ergonomic keyboard, and my first completely custom design. My previous build, the Dactyl Manuform R-Track, was almost perfect.</description>
+    <pubDate>Fri, 09 Aug 2024 17:44:25 GMT</pubDate>
   </item><item>
-    <title>Snells Law</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Optics/Snells-Law</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Optics/Snells-Law</guid>
-    <description>Snell’s Law Snell’s Law allows use to predict the path of light as it travels from one medium to another. Many scientists tried to find a mathematical relationship for this, but the discovery came at the hand of Willebrord Snell, a Duth mathematician.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
+    <title>Icarus</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</guid>
+    <description>Icarus Introduction I had just finished a written math assignment when I thought to myself: why should I have to compute something on my calculator, then enter it into the computer? ...</description>
+    <pubDate>Fri, 09 Aug 2024 17:44:25 GMT</pubDate>
   </item><item>
-    <title>Index of Refraction</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Optics/Index-of-Refraction</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Optics/Index-of-Refraction</guid>
-    <description>Index of Refraction A medium is a material through which light or some other wave passes. Different transparent mediums have different optical densities, based on the speed of light in the material.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
+    <title>Dactyl Manuform R-Track</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</guid>
+    <description>Dactyl Manuform R-Track Preface: This design is entirely made by QQurn, and details can be found at gitlab.com/keyboards1/dm_r_track. After building my first ergonomic keyboard a few months prior, I wanted to do more electronics.</description>
+    <pubDate>Fri, 09 Aug 2024 17:44:25 GMT</pubDate>
   </item><item>
-    <title>Weight</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Weight</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Weight</guid>
-    <description>Topic: Weight The weight of an object is defined in two ways: The mass of the object times the force of gravity: W = mg The value measured on a scale The issue with the second definition ...</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
+    <title>KiCad</title>
+    <link>https://eben.tonehaven.org/KiCad</link>
+    <guid>https://eben.tonehaven.org/KiCad</guid>
+    <description>KiCad KiCad is an open-source suite for designing Printed Circuit Boards.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
   </item><item>
-    <title>Velocity</title>
-    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Velocity</link>
-    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Newtonian-Mechanics/Velocity</guid>
-    <description>Velocity Velocity is a vector that denotes how fast and in what direction something is moving. Mathematically, it is written as \vec{v} = \vec{x}/t where \vec{x} represents the displacement.</description>
-    <pubDate>Fri, 09 Aug 2024 16:20:55 GMT</pubDate>
+    <title>Printed Circuit Boards</title>
+    <link>https://eben.tonehaven.org/Printed-Circuit-Boards</link>
+    <guid>https://eben.tonehaven.org/Printed-Circuit-Boards</guid>
+    <description>Printed Circuit Boards A printed circuit board, or PCB, is a object that allows us to physically wire together, or route, the components of a Circuit.</description>
+    <pubDate>Fri, 09 Aug 2024 04:59:16 GMT</pubDate>
+  </item><item>
+    <title>Electrical Conductors</title>
+    <link>https://eben.tonehaven.org/Concepts/Science/Physics/Electricity-and-Magnetism/Electrical-Conductors</link>
+    <guid>https://eben.tonehaven.org/Concepts/Science/Physics/Electricity-and-Magnetism/Electrical-Conductors</guid>
+    <description>Electrical Conductors Topic: Electromagnetism Materials have an associated property called their electrical conductivity. It refers to how easily electricity flows through them.</description>
+    <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
