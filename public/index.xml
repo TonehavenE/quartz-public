@@ -10,61 +10,61 @@
     <link>https://eben.tonehaven.org/Soldering</link>
     <guid>https://eben.tonehaven.org/Soldering</guid>
     <description>Soldering Soldering is the process of connecting a component to a PCB by melting solder between the surfaces. Traditionally, soldering is done using a soldering iron - essentially a very hot stick of metal that you gently touch to heat the circuit board, solder, and component together.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:10 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:07 GMT</pubDate>
   </item><item>
     <title>Ergonomic Keyboards</title>
     <link>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</link>
     <guid>https://eben.tonehaven.org/Research/Ergonomic-Mechanical-Keyboards/Ergonomic-Keyboards</guid>
     <description>Ergonomic Keyboards An ergonomic keyboard is a tool for inputting symbols to a computer in a way that doesn’t compromise on the user’s comfort. Typical features that might make a keyboard more ergonomic that the traditional counterpart are a split design, ortholinear or columnar staggered keys, or non-traditional angles.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:07 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:04 GMT</pubDate>
   </item><item>
     <title>Neutrons</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Neutrons</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Neutrons</guid>
     <description>Neutrons Topic: Atoms Neutrons are neutrally charged subatomic particles found inside the Nucleus of an atom. References.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:04 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:03 GMT</pubDate>
   </item><item>
     <title>Atoms</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Atoms</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Atoms</guid>
     <description>Atoms Atoms are the fundamental particle of matter, once believed to be the smallest unit of matter. Each atom consists of a Nucleus holding Protons and Neutrons, and a cloud of Electrons surrounding it.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:04 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:03 GMT</pubDate>
   </item><item>
     <title>Antiparticles</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Antiparticles</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Antiparticles</guid>
     <description>For every type of particle there is an antiparticle, also known as antimatter. The theory of antiparticles was first proposed by Paul Dirac in 1928. It has been confirmed by discovery when Don Anderson found the positively charged electron, positron, in 1932.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:04 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:03 GMT</pubDate>
   </item><item>
     <title>Alpha Radiation</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Alpha-Radiation</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Alpha-Radiation</guid>
     <description>Alpha Radiation Alpha radiation is made up of a stream of alpha particles: two Protons and two Neutrons. This is a helium nuclei with no electrons. They have a positive charge.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:04 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:03 GMT</pubDate>
   </item><item>
     <title>Absolute Zero</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Chemistry/Absolute-Zero</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Chemistry/Absolute-Zero</guid>
     <description>Absolute Zero There is no upper limit to temperature, in principle. Eventually things will become plasma, but they can keep heating up. On the other side of the scale, there is a lower limit to temperature.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:04 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:03 GMT</pubDate>
   </item><item>
     <title>Genes</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Biology/Genes</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Biology/Genes</guid>
     <description>Genes Topic: Genetics Genes are small segments of the giant DNA molecules. They can be thought of as forming the words to the chapters that are chromosomes, themselves part of the book that details your genetic master code.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:04 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:03 GMT</pubDate>
   </item><item>
     <title>Chromosome</title>
     <link>https://eben.tonehaven.org/Concepts/Science/Biology/Chromosome</link>
     <guid>https://eben.tonehaven.org/Concepts/Science/Biology/Chromosome</guid>
     <description>Chromosome Topic: Genetics A chromosome is a coiled chain of the molecule DNA that indicate your Genes. A human has 46 chromosomes. The nucleus is bigger than the chromosome is bigger than the ==gene==.</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:04 GMT</pubDate>
+    <pubDate>Fri, 09 Aug 2024 19:26:03 GMT</pubDate>
   </item><item>
-    <title>The Fundamental Theorem of Calculus</title>
-    <link>https://eben.tonehaven.org/Concepts/Math/Calculus/The-Fundamental-Theorem-of-Calculus</link>
-    <guid>https://eben.tonehaven.org/Concepts/Math/Calculus/The-Fundamental-Theorem-of-Calculus</guid>
-    <description>The Fundamental Theorem of Calculus Part 1 If a function, f(x), is continuous on an interval, then \frac{d}{dx}\left[\int_{a}^{x}f(t)dt\right]= f(x) In other words, the derivative ...</description>
-    <pubDate>Fri, 09 Aug 2024 19:05:02 GMT</pubDate>
+    <title>Math Notation</title>
+    <link>https://eben.tonehaven.org/Concepts/Math/Math-Notation</link>
+    <guid>https://eben.tonehaven.org/Concepts/Math/Math-Notation</guid>
+    <description>\mathbb{R}^{n} means the n-dimensional real coordinate space. It represents all possible real valued n-tuples. \in means that something is an element or member of something else, e.g: \vec{x}=\begin{bmatrix} 0 \\ 0 \\ 0 \end{bmatrix} \text{, }\vec{x}\in \mathbb{R}^3.</description>
+    <pubDate>Fri, 09 Aug 2024 19:26:02 GMT</pubDate>
   </item>
     </channel>
   </rss>
