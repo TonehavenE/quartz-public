@@ -6,29 +6,29 @@
       <description>Last 10 notes on ϵxplore</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Obsidian Notes</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</guid>
-    <description>Obsidian Notes What is Obsidian? In late 2022, I was lucky enough to stumble onto a wonderful project called Obsidian Notes. The principle is simple: a note-taking software composed of plain markdown files with a focus on interconnection and extensibility.</description>
-    <pubDate>Mon, 12 Aug 2024 01:20:30 GMT</pubDate>
-  </item><item>
-    <title>Beaver Works Summer Institute</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</guid>
-    <description>Beaver Works Summer Institute Introduction In the summer of 2023, I had the pleasure of attending the Beaver Works Summer Institute, a program for rising high school seniors run by ...</description>
-    <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Biking</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</guid>
-    <description>Biking Research As winter settled in and I began to spend more time inside, I was looking to get into a new excerise hobby. I spent a while thinking about it, and eventually decided that I wanted to start biking.</description>
-    <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Hello, World</title>
     <link>https://eben.tonehaven.org/</link>
     <guid>https://eben.tonehaven.org/</guid>
     <description>Hello, World Hey there! I am Eben Quenneville, a Physics student at the University of New Hampshire. This is a publicly accessible sub-section of my personal notes network built using Obsidian.</description>
     <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Beaver Works Summer Institute</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</guid>
+    <description>Beaver Works Summer Institute Introduction In the summer of 2023, I had the pleasure of attending the Beaver Works Summer Institute, a program for rising high school seniors run by ...</description>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Obsidian Notes</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</guid>
+    <description>Obsidian Notes What is Obsidian? In late 2022, I was lucky enough to stumble onto a wonderful project called Obsidian Notes. The principle is simple: a note-taking software composed of plain markdown files with a focus on interconnection and extensibility.</description>
+    <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Biking</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Biking</guid>
+    <description>Biking Research As winter settled in and I began to spend more time inside, I was looking to get into a new excerise hobby. I spent a while thinking about it, and eventually decided that I wanted to start biking.</description>
+    <pubDate>Sat, 07 Jan 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>Silvis</title>
     <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Silvis</link>
