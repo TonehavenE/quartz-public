@@ -10,25 +10,7 @@
     <link>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</link>
     <guid>https://eben.tonehaven.org/Blog-Posts/Posts/Obsidian</guid>
     <description>Obsidian Notes What is Obsidian? In late 2022, I was lucky enough to stumble onto a wonderful project called Obsidian Notes. The principle is simple: a note-taking software composed of plain markdown files with a focus on interconnection and extensibility.</description>
-    <pubDate>Mon, 12 Aug 2024 01:16:07 GMT</pubDate>
-  </item><item>
-    <title>Tantalus</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</guid>
-    <description>Tantalus Introduction This is my 3rd ergonomic keyboard, and my first completely custom design. My previous build, the Dactyl Manuform R-Track, was almost perfect.</description>
-    <pubDate>Mon, 12 Aug 2024 01:16:07 GMT</pubDate>
-  </item><item>
-    <title>Icarus</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</guid>
-    <description>Icarus Introduction I had just finished a written math assignment when I thought to myself: why should I have to compute something on my calculator, then enter it into the computer? ...</description>
-    <pubDate>Mon, 12 Aug 2024 01:16:07 GMT</pubDate>
-  </item><item>
-    <title>Dactyl Manuform R-Track</title>
-    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</link>
-    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</guid>
-    <description>Dactyl Manuform R-Track Preface: This design is entirely made by QQurn, and details can be found at gitlab.com/keyboards1/dm_r_track. After building my first ergonomic keyboard a few months prior, I wanted to do more electronics.</description>
-    <pubDate>Mon, 12 Aug 2024 01:16:07 GMT</pubDate>
+    <pubDate>Mon, 12 Aug 2024 01:20:30 GMT</pubDate>
   </item><item>
     <title>Beaver Works Summer Institute</title>
     <link>https://eben.tonehaven.org/Blog-Posts/Posts/BWSI</link>
@@ -51,13 +33,31 @@
     <title>Silvis</title>
     <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Silvis</link>
     <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Silvis</guid>
-    <description> Introduction After building Tantalus and another Dactyl Manuform 5x6, I still wasn’t fully satisfied with my secondary keyboard. My Dactyl Manuform R-Track is perfect for my primary setup, but I have been moving around more and doing school work on a laptop.</description>
+    <description>Silvis Introduction After building Tantalus and another Dactyl Manuform 5x6, I still wasn’t fully satisfied with my secondary keyboard. My Dactyl Manuform R-Track is perfect for my primary setup, but I have been moving around more and doing school work on a laptop.</description>
     <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Icarus</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Icarus</guid>
+    <description>Icarus Introduction I had just finished a written math assignment when I thought to myself: why should I have to compute something on my calculator, then enter it into the computer? ...</description>
+    <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Tantalus</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Tantalus</guid>
+    <description>Tantalus Introduction This is my 3rd ergonomic keyboard, and my first completely custom design. My previous build, the Dactyl Manuform R-Track, was almost perfect.</description>
+    <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Dactyl Manuform R-Track</title>
+    <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</link>
+    <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/Dactyl-Manuform-R-Track</guid>
+    <description>Dactyl Manuform R-Track Preface: This design is entirely made by QQurn, and details can be found at gitlab.com/keyboards1/dm_r_track. After building my first ergonomic keyboard a few months prior, I wanted to do more electronics.</description>
+    <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
   </item><item>
     <title>ErgoTravel</title>
     <link>https://eben.tonehaven.org/Blog-Posts/Keyboards/ErgoTravel</link>
     <guid>https://eben.tonehaven.org/Blog-Posts/Keyboards/ErgoTravel</guid>
-    <description> The ErgoTravel was my first foray into the world of Ergonomic Keyboards. For this first build, I stuck with something tried and true. I purchased a kit from an online retailer, and built it according to the instructions.</description>
+    <description>ErgoTravel The ErgoTravel was my first foray into the world of Ergonomic Keyboards. For this first build, I stuck with something tried and true. I purchased a kit from an online retailer, and built it according to the instructions.</description>
     <pubDate>Tue, 01 Sep 2020 00:00:00 GMT</pubDate>
   </item>
     </channel>
